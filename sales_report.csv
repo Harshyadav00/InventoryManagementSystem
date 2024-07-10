@@ -1,0 +1,4 @@
+orderID,orderDate,customerName,productID,name,quantity,price
+1,2024-07-10 03:32:30,Harsh yadav,2,NoteBook,20,130.00
+2,2024-07-10 03:42:15,John ,3,Water Bottle,40,20.00
+3,2024-07-10 03:49:13,Sam,3,Water Bottle,25,20.00
